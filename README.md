@@ -1,7 +1,7 @@
 ### Hi welcome to my GitHub Repo! 👋
 
 
-Here are some ideas to get you started:
+
 
 - 🔭 I’m currently working on ... NextJs
 - 🌱 I’m currently learning ... how to center a Div
