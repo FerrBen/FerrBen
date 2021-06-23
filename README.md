@@ -12,5 +12,5 @@
 - 💬 Ask me about ... Anything you like.
 - 📫 How to reach me: ... Email
 - 😄 Pronouns: ... He/Him
-- ⚡ Fun fact: ... I'm only half Italian but my name is very Italian.
+
 -->
