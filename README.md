@@ -40,7 +40,7 @@ Swift         Stripe      Prisma       Railway
 ## Let's Connect
 
 [![Website](https://img.shields.io/badge/ferrben.com-000?style=flat&logo=google-chrome&logoColor=white)](https://ferrben.com)
-[![Twitter](https://img.shields.io/badge/@ferrben-000?style=flat&logo=x&logoColor=white)](https://x.com/_qweetr)
+[![Twitter](https://img.shields.io/badge/@ferrben-000?style=flat&logo=x&logoColor=white)](https://x.com/Qweetr_)
 
 ---
 
