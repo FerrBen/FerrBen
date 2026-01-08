@@ -10,7 +10,7 @@ Building in public | Shipping fast | Staying lean
 
 **[Lynq.ink](https://lynq.ink)** - Link-in-bio tool for creators. Fast, customizable, no BS pricing.
 
-**[File Sorter](https://filesorter.app)** - macOS utility for automatic file organization. My first product with paying customers.
+**[File Sorter](https://ferrben.com/file-sorter)** - macOS utility for automatic file organization. My first product with paying customers.
 
 **Split Keyboards** - Custom ergonomic keyboards for developers who care about their wrists.
 
@@ -40,8 +40,8 @@ Swift         Stripe      Prisma       Railway
 ## Let's Connect
 
 [![Website](https://img.shields.io/badge/ferrben.com-000?style=flat&logo=google-chrome&logoColor=white)](https://ferrben.com)
-[![Twitter](https://img.shields.io/badge/@ferrben-000?style=flat&logo=x&logoColor=white)](https://x.com/ferrben)
+[![Twitter](https://img.shields.io/badge/@ferrben-000?style=flat&logo=x&logoColor=white)](https://x.com/_qweetr)
 
 ---
 
-<
+<sub>If you're building something too, I'd love to hear about it.</sub>
